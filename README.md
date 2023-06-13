@@ -1,4 +1,2 @@
 # Katherine M. Kinnaird
-## Clare Boothe Luce Assistant Professor
-### Department of Computer Science and Program in Statistical & Data Sciences
-### Smith College
+Hi there! I'm the Clare Boothe Luce Assistant Professor jointly appointed in the Department of Computer Science and Program in Statistical & Data Sciences at Smith College
